@@ -69,7 +69,7 @@ react-vite-tailwind-starter/
 ├── package.json       # Project dependencies and scripts
 └── vite.config.js     # Vite configuration
 └── tailwind.config.js # Tailwind configuration
-
+```
 ## Available Scripts
 
 - **`npm run dev`**: Start the development server.
@@ -94,4 +94,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE)file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
